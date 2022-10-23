@@ -1,4 +1,4 @@
-# Exercíos de Fixaçāo (Māo na massa) do curso de formaçāo Python Expert (Degrau 1)
+# Exercíos de Fixaçāo do curso de formaçāo Python Expert (Degrau 1)
 
 Resolvido os exercícios de revisāo/fixaçāo, referente aos seguintes tópicos:
 - Funçāo print()
