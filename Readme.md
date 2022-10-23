@@ -1,4 +1,4 @@
-# Exercíos de Fixaçāo do curso de formaçāo Python Expert (Degrau 1)
+# Exercíos de Fixaçāo (Degrau 1) - Primeiros Passos na linguagem Python
 
 Resolvido os exercícios de revisāo/fixaçāo, referente aos seguintes tópicos:
 - Funçāo print()
